@@ -1,0 +1,3 @@
+# perform under the folder
+
+md5sum * > checklist.chk
